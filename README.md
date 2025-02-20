@@ -1,0 +1,2 @@
+# n8n_jscode_tester
+n8nでcodeを作ったときのテスト用のオブジェクトと環境
